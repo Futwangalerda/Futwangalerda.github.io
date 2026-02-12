@@ -65,7 +65,7 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #FDB515;
+	color: #00356b;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
@@ -117,7 +117,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #FDB515;
+	color: #00356b;
 	margin-top: 0.8em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
